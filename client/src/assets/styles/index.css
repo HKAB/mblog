@@ -1,0 +1,29 @@
+@import 'prismjs/themes/prism.css';
+
+pre {
+  background: #f7f7f7 !important;
+  padding: 16px;
+  overflow-x: auto;
+  white-space: pre;
+}
+
+code {
+  background: #f7f7f7;
+  font-family: monospace !important;
+}
+/*
+.md-toolbar {
+	overflow: hidden;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 3;
+}
+.md-drawer{
+	top: -64px;
+}
+
+.main {
+	margin-top: 64px;
+}*/
+
